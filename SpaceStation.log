@@ -1,0 +1,66 @@
+2018-12-30 16:50:19,333 {'name': 'iss', 'id': 25544, 'latitude': -51.573845942682, 'longitude': -45.757625935488, 'altitude': 262.39567227316, 'velocity': 17131.415060836, 'visibility': 'daylight', 'footprint': 2808.0193263911, 'timestamp': 1546206620, 'daynum': 2458483.4099537, 'solar_lat': -23.119605975519, 'solar_lon': 213.09314048313, 'units': 'miles'}
+2018-12-30 16:50:19,334 The International Space Station's current coordinates are: 
+2018-12-30 16:50:19,334 Latitude = -51.573845942682 Longitude = -45.757625935488
+2018-12-30 16:50:19,334 The International Space Altitude and Velocity (in mph) are: 
+2018-12-30 16:50:19,334 Altitude = 262.39567227316 miles and Velocity = 17131.415060836 mph
+2018-12-30 16:50:19,334 Current distance to the ISS: 6764.863423036327
+2018-12-30 16:50:49,596 {'name': 'iss', 'id': 25544, 'latitude': -51.727897619853, 'longitude': -42.678828618915, 'altitude': 262.46488409931, 'velocity': 17131.210781254, 'visibility': 'daylight', 'footprint': 2808.3703159299, 'timestamp': 1546206651, 'daynum': 2458483.4103125, 'solar_lat': -23.119580814146, 'solar_lon': 212.96401687208, 'units': 'miles'}
+2018-12-30 16:50:49,597 The International Space Station's current coordinates are: 
+2018-12-30 16:50:49,597 Latitude = -51.727897619853 Longitude = -42.678828618915
+2018-12-30 16:50:49,597 The International Space Altitude and Velocity (in mph) are: 
+2018-12-30 16:50:49,597 Altitude = 262.46488409931 miles and Velocity = 17131.210781254 mph
+2018-12-30 16:50:49,597 Current distance to the ISS: 6823.463600560708
+2018-12-30 16:51:19,880 {'name': 'iss', 'id': 25544, 'latitude': -51.793249018683, 'longitude': -39.684435814922, 'altitude': 262.51244064681, 'velocity': 17131.050170243, 'visibility': 'daylight', 'footprint': 2808.6114554148, 'timestamp': 1546206681, 'daynum': 2458483.4106597, 'solar_lat': -23.119556463482, 'solar_lon': 212.83905851705, 'units': 'miles'}
+2018-12-30 16:51:19,881 The International Space Station's current coordinates are: 
+2018-12-30 16:51:19,881 Latitude = -51.793249018683 Longitude = -39.684435814922
+2018-12-30 16:51:19,881 The International Space Altitude and Velocity (in mph) are: 
+2018-12-30 16:51:19,881 Altitude = 262.51244064681 miles and Velocity = 17131.050170243 mph
+2018-12-30 16:51:19,881 Current distance to the ISS: 6879.23235524219
+2018-12-30 16:51:50,165 {'name': 'iss', 'id': 25544, 'latitude': -51.775810094211, 'longitude': -36.686792522559, 'altitude': 262.54079515245, 'velocity': 17130.926278663, 'visibility': 'daylight', 'footprint': 2808.7552173088, 'timestamp': 1546206711, 'daynum': 2458483.4110069, 'solar_lat': -23.119532111889, 'solar_lon': 212.71410016188, 'units': 'miles'}
+2018-12-30 16:51:50,165 The International Space Station's current coordinates are: 
+2018-12-30 16:51:50,165 Latitude = -51.775810094211 Longitude = -36.686792522559
+2018-12-30 16:51:50,166 The International Space Altitude and Velocity (in mph) are: 
+2018-12-30 16:51:50,166 Altitude = 262.54079515245 miles and Velocity = 17130.926278663 mph
+2018-12-30 16:51:50,166 Current distance to the ISS: 6934.021363948753
+2018-12-30 16:52:20,448 {'name': 'iss', 'id': 25544, 'latitude': -51.675698774652, 'longitude': -33.697277676535, 'altitude': 262.54992721031, 'velocity': 17130.839229626, 'visibility': 'daylight', 'footprint': 2808.8015163966, 'timestamp': 1546206741, 'daynum': 2458483.4113542, 'solar_lat': -23.119507759366, 'solar_lon': 212.58914180658, 'units': 'miles'}
+2018-12-30 16:52:20,448 The International Space Station's current coordinates are: 
+2018-12-30 16:52:20,448 Latitude = -51.675698774652 Longitude = -33.697277676535
+2018-12-30 16:52:20,448 The International Space Altitude and Velocity (in mph) are: 
+2018-12-30 16:52:20,448 Altitude = 262.54992721031 miles and Velocity = 17130.839229626 mph
+2018-12-30 16:52:20,448 Current distance to the ISS: 6987.77716869163
+2018-12-30 16:52:50,763 {'name': 'iss', 'id': 25544, 'latitude': -51.486098580338, 'longitude': -30.628505215481, 'altitude': 262.53922874292, 'velocity': 17130.787984662, 'visibility': 'daylight', 'footprint': 2808.7472755954, 'timestamp': 1546206772, 'daynum': 2458483.411713, 'solar_lat': -23.119482594089, 'solar_lon': 212.46001802739, 'units': 'miles'}
+2018-12-30 16:52:50,764 The International Space Station's current coordinates are: 
+2018-12-30 16:52:50,764 Latitude = -51.486098580338 Longitude = -30.628505215481
+2018-12-30 16:52:50,764 The International Space Altitude and Velocity (in mph) are: 
+2018-12-30 16:52:50,765 Altitude = 262.53922874292 miles and Velocity = 17130.787984662 mph
+2018-12-30 16:52:50,765 Current distance to the ISS: 7042.182714268182
+2018-12-30 16:53:21,911 {'name': 'iss', 'id': 25544, 'latitude': -51.210226649712, 'longitude': -27.592092873507, 'altitude': 262.50820981887, 'velocity': 17130.775946337, 'visibility': 'daylight', 'footprint': 2808.5900036685, 'timestamp': 1546206803, 'daynum': 2458483.4120718, 'solar_lat': -23.119457427853, 'solar_lon': 212.33089441563, 'units': 'miles'}
+2018-12-30 16:53:21,911 The International Space Station's current coordinates are: 
+2018-12-30 16:53:21,911 Latitude = -51.210226649712 Longitude = -27.592092873507
+2018-12-30 16:53:21,911 The International Space Altitude and Velocity (in mph) are: 
+2018-12-30 16:53:21,911 Altitude = 262.50820981887 miles and Velocity = 17130.775946337 mph
+2018-12-30 16:53:21,911 Current distance to the ISS: 7095.369062310076
+2018-12-30 16:53:52,179 {'name': 'iss', 'id': 25544, 'latitude': -50.862847200746, 'longitude': -24.694702826348, 'altitude': 262.45906012781, 'velocity': 17130.801372051, 'visibility': 'daylight', 'footprint': 2808.3407832551, 'timestamp': 1546206833, 'daynum': 2458483.412419, 'solar_lat': -23.119433072481, 'solar_lon': 212.20593605992, 'units': 'miles'}
+2018-12-30 16:53:52,180 The International Space Station's current coordinates are: 
+2018-12-30 16:53:52,180 Latitude = -50.862847200746 Longitude = -24.694702826348
+2018-12-30 16:53:52,180 The International Space Altitude and Velocity (in mph) are: 
+2018-12-30 16:53:52,180 Altitude = 262.45906012781 miles and Velocity = 17130.801372051 mph
+2018-12-30 16:53:52,181 Current distance to the ISS: 7145.623653758973
+2018-12-30 16:54:22,445 {'name': 'iss', 'id': 25544, 'latitude': -50.438508607411, 'longitude': -21.84670572713, 'altitude': 262.39137888669, 'velocity': 17130.862896517, 'visibility': 'daylight', 'footprint': 2807.99755185, 'timestamp': 1546206863, 'daynum': 2458483.4127662, 'solar_lat': -23.11940871618, 'solar_lon': 212.08097770408, 'units': 'miles'}
+2018-12-30 16:54:22,446 The International Space Station's current coordinates are: 
+2018-12-30 16:54:22,446 Latitude = -50.438508607411 Longitude = -21.84670572713
+2018-12-30 16:54:22,446 The International Space Altitude and Velocity (in mph) are: 
+2018-12-30 16:54:22,446 Altitude = 262.39137888669 miles and Velocity = 17130.862896517 mph
+2018-12-30 16:54:22,446 Current distance to the ISS: 7194.62848396943
+2018-12-30 16:54:52,716 {'name': 'iss', 'id': 25544, 'latitude': -49.921810247524, 'longitude': -18.963898594468, 'altitude': 262.30235188576, 'velocity': 17130.963881815, 'visibility': 'daylight', 'footprint': 2807.5459918919, 'timestamp': 1546206894, 'daynum': 2458483.413125, 'solar_lat': -23.119383547031, 'solar_lon': 211.95185409191, 'units': 'miles'}
+2018-12-30 16:54:52,716 The International Space Station's current coordinates are: 
+2018-12-30 16:54:52,716 Latitude = -49.921810247524 Longitude = -18.963898594468
+2018-12-30 16:54:52,716 The International Space Altitude and Velocity (in mph) are: 
+2018-12-30 16:54:52,717 Altitude = 262.30235188576 miles and Velocity = 17130.963881815 mph
+2018-12-30 16:54:52,717 Current distance to the ISS: 7243.897804007019
+2018-12-30 16:55:22,982 {'name': 'iss', 'id': 25544, 'latitude': -49.348950462353, 'longitude': -16.238971599394, 'altitude': 262.1981624328, 'velocity': 17131.097197412, 'visibility': 'daylight', 'footprint': 2807.0174128875, 'timestamp': 1546206924, 'daynum': 2458483.4134722, 'solar_lat': -23.119359188842, 'solar_lon': 211.82689573579, 'units': 'miles'}
+2018-12-30 16:55:22,982 The International Space Station's current coordinates are: 
+2018-12-30 16:55:22,983 Latitude = -49.348950462353 Longitude = -16.238971599394
+2018-12-30 16:55:22,983 The International Space Altitude and Velocity (in mph) are: 
+2018-12-30 16:55:22,983 Altitude = 262.1981624328 miles and Velocity = 17131.097197412 mph
+2018-12-30 16:55:22,983 Current distance to the ISS: 7290.19907855628
