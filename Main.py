@@ -3,7 +3,7 @@
 
 import urllib.request, json, threading, math, time, signal, logging, sys
 
-# import RPi.GPIO as GPIO
+import RPi.GPIO as GPIO
 
 # currently setup for python 3, make sure to use "python3" and script
 url = "https://api.wheretheiss.at/v1/satellites/25544?units=miles"
@@ -30,11 +30,11 @@ if sys.platform == 'linux':
 def work(home_lat, home_long):
     response = urllib.request.urlopen(url)
     # use just this one in 3.6
-    data = json.loads(response.read())
+    # data = json.loads(response.read())
     # this is for version 3.4 python and is not needed in 3.6
-    # str_response = response.readall().decode('utf-8')
-    # data = json.loads(str_response)
-    logging.info(data)
+    str_response = response.readall().decode('utf-8')
+    data = json.loads(str_response)
+    logging.debug(data)
     iss_lat = data['latitude']
     iss_long = data['longitude']
     iss_altitude = data['altitude']
